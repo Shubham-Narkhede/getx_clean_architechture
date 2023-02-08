@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:getx_clean_architechture/initApp.dart';
-import 'package:getx_clean_architechture/view/ScreenHome.dart';
 
 import 'TDD/presentation/pages/ScreenUserDetails.dart';
 

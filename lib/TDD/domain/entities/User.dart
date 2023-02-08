@@ -13,11 +13,8 @@ class User extends Equatable {
   int? id;
   String? name;
   Owner? owner;
-
   DefaultBranch? defaultBranch;
 
   @override
   List<Object?> get props => [id, name, owner, defaultBranch];
 }
- 
- 
